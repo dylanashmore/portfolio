@@ -33,7 +33,6 @@ export default function App() {
 
     {/* RIGHT — image */}
     <aside className="about-image">
-      {/* put an image at public/about.jpg (or change the src) */}
       <img src="/about.jpg"/>
     </aside>
   </div>
