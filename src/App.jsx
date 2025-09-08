@@ -74,8 +74,8 @@ export default function App() {
               </p>
             </a>
             <a className="card" href="#" target="_blank" rel="noreferrer">
-              <h3>second project</h3>
-              <p>i still need to start</p>
+              <h3>Ramos Fencing</h3>
+              <p>(Currently still under development) Designing a website for a local fencing company to help display their work and drive new leads.</p>
             </a>
           </div>
         </div>
