@@ -73,9 +73,14 @@ export default function App() {
                 was to improve the user experience and functionality from previous study sites made by other students.
               </p>
             </a>
-            <a className="card" href="#" target="_blank" rel="noreferrer">
+            <a className="card" href="https://www.dramosfence.com" target="_blank" rel="noreferrer">
               <h3>Ramos Fencing</h3>
-              <p>(Currently still under development) Designing a website for a local fencing company to help display their work and drive new leads.</p>
+              <p>       I developed this website for a local fencing company using React and React Router to build dynamic service 
+                        pages and responsive image galleries. This was my first full project where I also designed the mobile 
+                        experience, ensuring smooth navigation and layouts across devices. I gained hands-on experience with CSS, 
+                        JavaScript, and user experience design principles, and I set up the backend to handle form submissions so 
+                        the company could easily receive customer inquiries.
+                       </p>
             </a>
           </div>
         </div>
