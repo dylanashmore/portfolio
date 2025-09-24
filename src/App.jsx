@@ -74,7 +74,7 @@ export default function App() {
               </p>
             </a>
             <a className="card" href="https://www.dramosfence.com" target="_blank" rel="noreferrer">
-              <h3>Ramos Fencing</h3>
+              <h3>Ramos Fencing ➩</h3>
               <p>       I developed this website for a local fencing company using React and React Router to build dynamic service 
                         pages and responsive image galleries. This was my first full project where I also designed the mobile 
                         experience, ensuring smooth navigation and layouts across devices. I gained hands-on experience with CSS, 
