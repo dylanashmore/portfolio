@@ -27,7 +27,8 @@ export default function App() {
            Hi! I'm a second-year Computer Science student at the University of Central Florida interested in UI/UX design and full stack development.
             Before CS, I studied Graphic Design at Hillsborough Community College and earned my associate's degree.
             I have always had a keen eye and love for design of all types, so when I learned about the field of UI/UX design,
-            I knew it would be perfect for me since it combines design with logical systems and analytical thinking.
+            I knew it would be perfect for me since it combines design with logical systems and analytical thinking. I am currently working an I.T help desk
+            position at the Doctor Phillips Center for the Performing Arts, where I have gained experience in troubleshooting and customer service. I am also working on a project to create a study website for the UCF Foundation Exam, which is a comprehensive exam that tests students on various computer science topics. I am passionate about learning and growing as a developer and designer, and I am excited to see where my skills will take me in the future.
       </p>
     </div>
 
